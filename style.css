@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: comic sans ms;
+    background:linear-gradient(yellow 0%,red 30%,white 50%,cyan 100%);
+    font-weight:bold;
+}
+.line {
+    height: 20px;
+    background-color: firebrick;
+}
+#beethoven {
+    height: 400px;
+    width: 400px;
+}
+#mozart {
+    height: 400px;
+    width: 400px;
+}
